@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hickcp
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning C++ and Python Projects
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+Meu nome é Henrique!
+Gosto de aprender e resolver problemas.
+Atualmente estou estudando Engenharia da Computação. Estou dando ênfase em Python, C++, HTML5 e CSS3.
+Contato por e-mail: henrique_c_p@outlook.com
 
 <!---
 hickcp/hickcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
