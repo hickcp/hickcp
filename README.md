@@ -1,6 +1,7 @@
 Meu nome é Henrique!
 Gosto de aprender e resolver problemas.
-Atualmente estou estudando Engenharia da Computação. Estou dando ênfase em Python, C++, HTML5 e CSS3.
+Atualmente estou estudando Engenharia da Computação. Estou dando ênfase FullStack.
+Atualmente com habilidades com CSS, HTML, JavaScript, Python e C++.
 Contato por e-mail: henrique_c_p@outlook.com
 
 <!---
