@@ -8,8 +8,8 @@ Fico empolgado com novos desafios e oportunidades.
 
 
 ## Skills
-Atualmente com habilidades em CSS, HTML, JavaScript, Python e JAVA.
-Meu foco principal está sendo o JAVA, é uma linguagem de programação que me encantou e que amo estudar.
+Atualmente com habilidades em JavaScript, Python, JAVA, SpringBoot e Banco de Dados Relacional.
+Tenho certificados pela Digital Innovation One, onde podem ser encontrados aqui mesmo no github.
 
 
 
