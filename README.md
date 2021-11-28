@@ -25,7 +25,7 @@ Conheço e tenho projetos com estilo de arquitetura REST, RESTFul.
     
 Sou amante das boas práticas da programação.
     
-Tenho certificados que comprovam que estudei e continuo estudo, onde podem ser encontrados [aqui mesmo no github.](https://github.com/hickcp/certificados)
+Tenho certificados que comprovam que estudei e que continuo estudando, onde podem ser encontrados [aqui mesmo no github.](https://github.com/hickcp/certificados)
     
 Te convido a olhar meu [repostiório.](https://github.com/hickcp?tab=repositories)
 
