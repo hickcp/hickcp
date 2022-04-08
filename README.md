@@ -18,7 +18,7 @@ Sou apaixonado por JAVA.
 ## Skills
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     
-Atualmente minhas habilidades sólidas são em JAVA, SpringBoot e Banco de Dados Relacional.
+Atualmente minhas habilidades sólidas são em JAVA, SpringBoot, API REST e Banco de Dados Relacional.
 Mas também conheço e tenho projetos com Python, HTML, CSS e JavaScrpit.
     
 Conheço e tenho projetos com estilo de arquitetura REST, RESTFul.
