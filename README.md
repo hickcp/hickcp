@@ -10,7 +10,7 @@
   
 Gosto de aprender e resolver problemas.
 Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://univesp.br/)
-    
+     
 Fico empolgado com novos desafios e oportunidades.
     
 Sou apaixonado por JAVA.
