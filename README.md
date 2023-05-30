@@ -10,22 +10,15 @@
   
 Gosto de aprender e resolver problemas.
 Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://univesp.br/)
-     
-Fico empolgado com novos desafios e oportunidades.
     
-Sou apaixonado por JAVA.
   
 ## Skills
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+Desenvolvedor Java com experiência em atualização e sustentação de sistemas bancários. Possuo conhecimentos sólidos em Spring Boot, API REST e MySQL. Tenho certificação na Alura Aprenda a programar em Java com Orientação a Objetos e em Java e Spring Boot.
+Mas também conheço e tenho projetos com HTML, CSS e JavaScrpit.
     
-Atualmente minhas habilidades sólidas são em JAVA, SpringBoot, API REST e Banco de Dados Relacional.
-Mas também conheço e tenho projetos com Python, HTML, CSS e JavaScrpit.
-    
-Conheço e tenho projetos com estilo de arquitetura REST, RESTFul.
-    
-Sou amante das boas práticas da programação.
-    
-Tenho certificados que comprovam que estudei e que continuo estudando, onde podem ser encontrados [aqui mesmo no github.](https://github.com/hickcp/certificados)
+Além das minhas habilidades e experiência, tenho certificados pela Alura, incluindo uma Certificação de Programação Orientada a Objetos com Java. Atualmente, estou prestes a concluir outra formação de Spring Boot 3, que abrange as dependências mais usadas pelo mercado. Esses certificados demonstram meu comprometimento em aprimorar minhas habilidades e conhecimentos, além de manter-me atualizado nas tecnologias mais recentes e procuradas pelo mercado.
     
 Te convido a olhar meu [repostiório.](https://github.com/hickcp?tab=repositories)
 
