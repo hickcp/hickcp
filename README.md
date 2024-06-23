@@ -6,18 +6,13 @@
     </a>
 </div>
    
-  
-Gosto de aprender e resolver problemas.
 Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://univesp.br/)
     
   
 ## Skills
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000)"/> <img src="https://img.icons8.com/?size=50&id=bzf0DqjXFHIW&format=png&color=000000"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
-Desenvolvedor Java com experiência em atualização e sustentação de sistemas bancários. Possuo conhecimentos sólidos em Spring Boot, API REST e MySQL. Tenho certificação na Alura Aprenda a programar em Java com Orientação a Objetos e em Java e Spring Boot.
-Mas também conheço e tenho projetos com HTML, CSS e JavaScrpit.
-    
-Além das minhas habilidades e experiência, tenho certificados pela Alura, incluindo uma Certificação de Programação Orientada a Objetos com Java. Atualmente, estou prestes a concluir outra formação de Spring Boot 3, que abrange as dependências mais usadas pelo mercado. Esses certificados demonstram meu comprometimento em aprimorar minhas habilidades e conhecimentos, além de manter-me atualizado nas tecnologias mais recentes e procuradas pelo mercado.
+Desenvolvedor FullStack com experiência em atualização e sustentação, desenvolvimento e melhores de sistemas com base em utilização em Inteligência Artifical para automatizar processos. Possuo conhecimentos sólidos Python, React, JS, Java, e seus respectivos frameworks. Tenho certificação na Alura demonstrando minha capacidade e sede de aprendizado e crescimento.
     
 Te convido a olhar meu [repostiório.](https://github.com/hickcp?tab=repositories)
 
