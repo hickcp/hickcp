@@ -14,7 +14,6 @@ Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://uni
 
 Desenvolvedor FullStack com experiência em atualização e sustentação, desenvolvimento e melhores de sistemas com base em utilização em Inteligência Artifical para automatizar processos. Possuo conhecimentos sólidos Python, React, JS, Java, e seus respectivos frameworks. Tenho certificação na Alura demonstrando minha capacidade e sede de aprendizado e crescimento.
     
-Te convido a olhar meu [repostiório.](https://github.com/hickcp?tab=repositories)
 
 ### Contato:
 
