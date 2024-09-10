@@ -12,7 +12,7 @@ Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://uni
 ## Skills
 <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000)"/> <img src="https://img.icons8.com/?size=50&id=bzf0DqjXFHIW&format=png&color=000000"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
-Desenvolvedor FullStack com experiência em atualização e sustentação, desenvolvimento e melhores de sistemas com base em utilização em Inteligência Artifical para automatizar processos. Possuo conhecimentos sólidos Python, React, JS, Java, e seus respectivos frameworks. Tenho certificação na Alura demonstrando minha capacidade e sede de aprendizado e crescimento.
+Desenvolvedor FullStack com experiência em atualização e sustentação de sistema de renda fixa, e atualmente desenvolvo na área da IA com LLMs, RAG, prompt engineering, fine tuning, etc. Possuo experiências sólidas em SQL Server, PostgreSql, Azure, Google Cloud, Python, React, JS, Java,  e seus respectivos frameworks/libs e boas práticas. 
     
 
 ### Contato:
