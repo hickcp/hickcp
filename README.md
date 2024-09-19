@@ -1,13 +1,6 @@
 # Sou o Henrique!
-
-<div align="center">
-  <a href="https://github.com/hickcp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickcp&layout=compact&langs_count=4&theme=dark"/>
-    </a>
-</div>
    
-Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://univesp.br/)
-    
+Atualmente estou estudando Engenharia da Computação pela [UNIVESP](https://univesp.br/)   
   
 ## Skills
 <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000)"/> <img src="https://img.icons8.com/?size=50&id=bzf0DqjXFHIW&format=png&color=000000"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
